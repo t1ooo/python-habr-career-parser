@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Вакансии — Хабр Карьера</title>
+    <description>Вакансии — Хабр Карьера</description>
+    <link>https://career.habr.com/vacancies/rss</link>
+    <language>ru</language>
+    <item>
+      <title>title1</title>
+      <description>description1</description>
+      <author>author1</author>
+      <pubDate>pubDate1</pubDate>
+      <link>link1</link>
+      <guid>guid1</guid>
+      <image>image1</image>
+    </item>
+    <item>
+      <title>title2</title>
+      <description>description2</description>
+      <author>author2</author>
+      <pubDate>pubDate2</pubDate>
+      <link>link2</link>
+      <guid>guid2</guid>
+      <image>image2</image>
+    </item>
+  </channel>
+</rss>
